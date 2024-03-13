@@ -10,6 +10,7 @@ require (
 	github.com/thedevsaddam/gojsonq/v2 v2.5.2
 	github.com/yannh/kubeconform v0.5.0
 	go.uber.org/zap v1.24.0
+	gopkg.in/yaml.v2 v2.4.0
 )
 
 require (
@@ -31,7 +32,6 @@ require (
 	go.uber.org/multierr v1.8.0 // indirect
 	golang.org/x/crypto v0.1.0 // indirect
 	golang.org/x/sys v0.1.0 // indirect
-	google.golang.org/protobuf v1.28.1 // indirect
-	gopkg.in/yaml.v2 v2.4.0 // indirect
+	google.golang.org/protobuf v1.33.0 // indirect
 	sigs.k8s.io/yaml v1.3.0 // indirect
 )
